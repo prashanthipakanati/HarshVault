@@ -1,0 +1,6 @@
+{
+  "name": "Cryptographic Hash Explorer",
+  "description": "Interactive cryptographic hash generation, data integrity verification, digest comparison, and AI-powered cryptographic education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
